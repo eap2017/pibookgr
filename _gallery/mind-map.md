@@ -1,5 +1,5 @@
 ---
-image_url: mind-map.png
+image_url: mind-map.jpg
 caption: Mind Mapping 
 title: mind map
 categories:
